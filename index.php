@@ -39,6 +39,7 @@
 	echo $str;
 	echo ']';
 //aaaa
+//eeeeee
 
 ?>
 
