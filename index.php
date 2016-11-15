@@ -1,5 +1,5 @@
 <?php
-	//wwww:iiiiiii
+	//wwww:iiiiiiiiiii
 	$file = file("/Users/jinchangli/b.txt");
 	$i = 0;
 	echo '$data = ['."\n";
