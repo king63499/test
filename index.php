@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 	//wwww:oooooooo
+=======
+	//wwww:iiiiiiiiiii
+>>>>>>> refs/remotes/origin/master
 	$file = file("/Users/jinchangli/b.txt");
 	$i = 0;
 	echo '$data = ['."\n";
